@@ -21,7 +21,7 @@ const About = ({ setPlayState }) => {
         <h3>Tentang Kami</h3>
         <h2>Bebek Unggul, Kualitas Terbaik</h2>
         <p>
-          Waluya Farm adalah salah satu usaha mikro, kecil, dan menengah (UMKM)
+          Bebek Fitria adalah salah satu usaha mikro, kecil, dan menengah (UMKM)
           terbesar di Kabupaten Karawang yang berfokus pada pembudidayaan telur
           bebek secara berkelanjutan di lingkungan pedesaan.
         </p>

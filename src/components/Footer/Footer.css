@@ -48,9 +48,3 @@
     width: 24px;
     height: 24px;
   }
-
-  @media (max-width: 800px){
-    .footer {
-      flex-direction: column;
-    } /* Make footer vertical */
-  }
