@@ -26,20 +26,20 @@ const About = ({ setPlayState }) => {
           bebek secara berkelanjutan di lingkungan pedesaan.
         </p>
         <p>
-          Berdiri sejak lebih dari 3 tahun yang lalu, Bebek Fitria melihat
-          kebutuhan telor bebek tinggi namun produktifitas telor bebek
-          fluktuatif karena mengandalkan telor angon dan kini telah berkembang
-          menjadi salah satu UMKM lokal yang memproduksi produk bebek dengan
-          kualitas terbaik. Kami mengelola lebih dari 500 ekor bebek di Desa
-          Waluya, Kecamata Kutawaluya, Kabupaten Karawang. Usaha ini didukung
-          oleh dedikasi dan kerja keras lebih dari 10 karyawan yang bersama-sama
-          bergabung dan berkembang dengan Bebek Fitria.
+          Bebek Fitria telah berdiri selama lebih dari 3 tahun, hadir untuk
+          menjawab kebutuhan akan telur bebek yang terus meningkat. Meskipun
+          permintaan tinggi, produksi telur bebek sering kali mengalami
+          fluktuasi karena bergantung pada metode tradisional seperti angon.
         </p>
         <p>
-          Bisnis kami meliputi pemrosesan telur bebek dengan metode peternakan
-          unggulan yang ramah lingkungan dan berkualitas tinggi. Komitmen kami
-          adalah memberikan yang terbaik bagi pelanggan, sambil turut mendukung
-          perekonomian desa dan menjaga kelestarian lingkungan sekitar.
+          Saat ini, kami mengelola lebih dari 500 ekor bebek di Desa Waluya,
+          Kecamatan Kutawaluya, Kabupaten Karawang. Usaha ini didukung oleh
+          dedikasi dan kerja keras lebih dari 10 karyawan yang bersama-sama
+          tumbuh dan berkembang bersama Bebek Fitria. Bisnis kami berfokus pada
+          pemrosesan telur bebek dengan metode peternakan unggulan yang ramah
+          lingkungan dan berkualitas tinggi. Kami berkomitmen untuk memberikan
+          produk terbaik kepada pelanggan, sekaligus mendukung perekonomian desa
+          dan menjaga kelestarian lingkungan.
         </p>
       </div>
     </div>

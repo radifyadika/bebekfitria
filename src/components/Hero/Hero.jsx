@@ -16,7 +16,7 @@ const Hero = () => {
           className="btn"
           onClick={() =>
             (window.location.href =
-              "https://wa.me/6281310055488?text=Halo%20Bebek%20Fitria..%0APerkenalkan%20saya%2C%20%0A%0ANama%20%3A%20%0ADomilisi%20%2F%20Wilayah%20%3A%20%0A%0AMau%20bertanya%20dong%20min%20%3F")
+              "https://wa.me/6285711210364?text=Halo%20Bebek%20Fitria..%0APerkenalkan%20saya%2C%20%0A%0ANama%20%3A%20%0ADomilisi%20%2F%20Wilayah%20%3A%20%0A%0AMau%20bertanya%20dong%20min%20%3F")
           }
         >
           Pesan Sekarang <img src={dark_arrow} alt="" />
