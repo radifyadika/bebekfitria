@@ -6,11 +6,11 @@ const Hero = () => {
   return (
     <div className="hero container">
       <div className="hero-text">
-        <h1>Terbaik Di Antara Semua Pilihan</h1>
+        <h1>Anda Belanja Anda Beramal!</h1>
         <p>
-          Anti Ribet: Proses pembiakan unggul kami dirancang untuk memberikan
-          Anda produk telur bebek berkualitas tinggi, memastikan produktivitas
-          maksimal, semua dengan harga yang sangat terjangkau!
+          Proses pembiakan unggul kami dirancang untuk memberikan Anda produk
+          telur bebek berkualitas tinggi, memastikan produktivitas maksimal,
+          semua dengan harga yang sangat terjangkau!
         </p>
         <button
           className="btn"

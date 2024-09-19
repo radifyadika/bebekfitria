@@ -26,13 +26,14 @@ const About = ({ setPlayState }) => {
           bebek secara berkelanjutan di lingkungan pedesaan.
         </p>
         <p>
-          Berdiri sejak lebih dari 5 tahun yang lalu, Waluya Farm telah
-          berkembang menjadi salah satu UMKM lokal terkemuka yang memproduksi
-          produk bebek berkualitas tinggi. Kami mengelola lebih dari 500 ekor
-          bebek di lahan seluas 1 hektar di Desa Waluya, Kecamata Kutawaluya,
-          Kabupaten Karawang. Usaha ini didukung oleh dedikasi dan kerja keras
-          lebih dari 10 karyawan yang bersama-sama bergabung dan berkembang
-          dengan Waluya Farm.
+          Berdiri sejak lebih dari 3 tahun yang lalu, Bebek Fitria melihat
+          kebutuhan telor bebek tinggi namun produktifitas telor bebek
+          fluktuatif karena mengandalkan telor angon dan kini telah berkembang
+          menjadi salah satu UMKM lokal yang memproduksi produk bebek dengan
+          kualitas terbaik. Kami mengelola lebih dari 500 ekor bebek di Desa
+          Waluya, Kecamata Kutawaluya, Kabupaten Karawang. Usaha ini didukung
+          oleh dedikasi dan kerja keras lebih dari 10 karyawan yang bersama-sama
+          bergabung dan berkembang dengan Bebek Fitria.
         </p>
         <p>
           Bisnis kami meliputi pemrosesan telur bebek dengan metode peternakan
