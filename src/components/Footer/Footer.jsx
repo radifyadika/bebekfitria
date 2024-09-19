@@ -16,7 +16,7 @@ const Footer = () => {
         </p>
         <div className="social-icons">
           <SocialIcon
-            url="https://instagram.com/radifyadika"
+            url="https://instagram.com"
             bgColor="#A7D6C2"
             style={{ height: 35, width: 35 }}
           />
